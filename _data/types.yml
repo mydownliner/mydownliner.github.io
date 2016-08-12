@@ -1,0 +1,18 @@
+order: ['ptc', 'btc', 'te']
+te:
+  name: Traffic Exchanges
+  description: |
+    <em>Traffic Exchanges</em> are used to generate traffic to your own website or
+    referral link. Many *TEs* have price pages with free credits and sometimes
+    cash.
+  layout: 2-column
+ptc:
+  name: Paid To Click
+  description: |
+    <em>Paid To Click</em> websites are used to make money visiting websites or
+    completing offers and surveys.
+  
+btc:
+  name: Earn bitcoin
+  description: |
+    Bitcoin (BTC) is a ...
