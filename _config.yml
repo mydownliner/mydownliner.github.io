@@ -22,6 +22,8 @@ github_username:  mydownliner
 # Build Settings
 sass:
   sass_dir: _sass
+  style: :compressed
+
 include: ['_pages']
 exclude: [vendor] # Excluded from travis-ci build
 markdown: kramdown
